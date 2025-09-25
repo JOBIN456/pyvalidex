@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pyvalidex"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python library to validate Indian identifiers like PAN, Aadhaar, GSTIN, and IFSC."
 readme = "README.md"
 license = {text = "MIT"}
